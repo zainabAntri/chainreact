@@ -22,8 +22,8 @@ onClick={()=>setColor("green")}
 >Green</button>
 <button className=" outline-none px-2 py-1 rounded-full text-white"
 style={{backgroundColor:"blue"}}
-onClick={()=>setColor("navy")}
->Navy</button>
+onClick={()=>setColor("blue")}
+>Blue</button>
 <button className=" outline-none px-2 py-1 rounded-full text-white"
 style={{backgroundColor:"orange"}}
 onClick={()=>setColor("orange")}
